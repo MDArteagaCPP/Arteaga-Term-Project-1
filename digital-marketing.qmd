@@ -4,7 +4,7 @@ title: "Strategic Marketing"
 
 Over the past several years, my work has included branding, visual marketing, and video production. Below are some of my projects where I've collaborated with entrepreneurs, businesses, and creatives to showcase their brands and ideas.
 
-## Abi Carter - "Peppermint Sky" Official Music Video
+## 🎥 Abi Carter - "Peppermint Sky" Official Music Video
 
 For this project, I worked with music artist **Abi Carter** from American Idol. This involved storyboarding and visualizing her ideas for video production. Given the limitations of our time and budget, we had to film this in one day with a crew of 2 people. After filming, the music video was edited and promoted to audiences across multiple social media channels.
 
@@ -19,7 +19,7 @@ See the final production [here](https://www.youtube.com/watch?v=vnk4ltwfdkw).
 
 ---
 
-## Origami Handroll Bar - Visual Marketing and Photography
+## 🍣 Origami Handroll Bar - Visual Marketing and Photography
 
 I had the opportunity to work with a local business to improve their online presence through photogrpahy and videography. With branding having already been completed, this was treated more as an update to the visual standards of the brand, while keeping the design cues intact. Using other sources as reference and inspiration, we worked on photographing the menu in a way that kept the restaurant's theme in mind. I also worked on some video productions for them so that they could promote their restaurant concept to potential franchisees.
 
@@ -33,7 +33,7 @@ See the final delivered items at [Origami's website](https://www.origamihrb.com)
 
 ---
 
-## Culminating Experience Project - MSDM
+## 🎓 Culminating Experience Project - MSDM
 
 This project involved collaboration between myself and other classmates of the M.S. in Digital Marketing cohort to study the effects of AI Impatience on consumers as they become aware of AI integration in product development. A survey was provided to a respondent pool of about 200 Cal Poly students in order to gather data, which was cleaned and analyzed. Ultimately, the data was wrangled and visualized to display our findings.
 
