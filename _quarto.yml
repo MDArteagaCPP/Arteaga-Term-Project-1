@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Michael Arteaga"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Marketing Analytics"
+        href: marketing-analytics.qmd
+      - text: "Digital Marketing"
+        href: digital-marketing.qmd
+      - text: "Resumé"
+        href: resume.qmd
+
+
+format:
+  html:
+    theme: [minty, theme.scss]
+    toc: true
+

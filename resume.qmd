@@ -1,0 +1,78 @@
+---
+title: "My Resumé"
+---
+
+```{r knit-resume, echo=FALSE, message=FALSE}
+rmarkdown::render(
+  "resume/Resume.Rmd",
+  output_format = "pdf_document",
+  output_file   = "Resume.pdf",
+  output_dir    = "resume",
+  quiet         = TRUE
+)
+```
+
+You can view a PDF version of my résumé [here](resume/Michael_Arteaga_Resume.pdf).
+
+# Professional Summary
+
+From a young age, I've been involved with the arts in varying degrees, including music and photography More recently, my experience has expanded to include cinematography. I've had the pleasure to work with many entrepreneurs, brands, digital influencers, and music artists to visual tell their stories and bring ideas to life. Through Digital Marketing, I'm able to reach new audiences with captivating visual media that compels, challenges, and inspires.
+
+# Technical Skills
+
+- **Programming Languages:** R, SQL, etc.  
+- **Web Technologies:** HTML, CSS/SCSS, Quarto, Analytics Tools
+
+# Education
+
+| Degree                             | Year                          | College / Department                 | Institution         |
+| ---------------------------------- | ----------------------------- | ------------------------------------ | ------------------- |
+| M.S. Digital Marketing]                    | 2023-2025     | Singelyn College of Business        | Cal Poly Pomona  |
+| B.S. Business Administration | 2014-2018            | College of Business Administration       | Cal Poly Pomona   |
+| B.A. Music Industry Studies | 2014-2018            | College of Letters, Arts, Social Sciences       | Cal Poly Pomona   |
+
+# Work Experience
+
+### Creative Director, COG Cinemas 
+*2013 - Present*
+
+- Directing, filming, and production of
+corporate, marketing, and social content  
+- 10+ years working experience with audio
+and camera equipment and industry NLE’s  
+- Content curation to align brand across social
+channels through photo, video, and graphics 
+- Use of social tools and digital marketing to
+monitor activity and engage communities
+
+---
+
+### Technical Administrator, Apple  
+*2017 - Present*
+
+- Support internal teams by creating
+digital assets via Adobe Creative Cloud  
+- Leverage cloud platforms to remotely
+conceptualize, revise, and finalize projects 
+- Tasked with editing confidential content
+to be distributed through internal channels 
+- Collaborate with leadership to identify
+and implement growth opportunities
+
+---
+
+### Content Producer, Youtube Creator 
+*2013 - Present*
+
+- Director, creator, and producer for three
+independent Youtube channels 
+- Partner with brands and social influenc-
+ers to promote exclusive events, products,
+and media nights through social content
+- Management of various social communities
+across Youtube, Facebook, Instagram, etc. 
+- 10+ years experience with travel, narra-
+tive, documentary, vlog, product, brand-
+ing, and music-focused content
+
+---

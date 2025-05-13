@@ -1,0 +1,57 @@
+---
+title: "Strategic Marketing"
+---
+
+Over the past several years, my work has included branding, visual marketing, and video production. Below are some of my projects where I've collaborated with entrepreneurs, businesses, and creatives to showcase their brands and ideas.
+
+## Abi Carter - "Peppermint Sky" Official Music Video
+
+For this project, I worked with music artist **Abi Carter** from American Idol. This involved storyboarding and visualizing her ideas for video production. Given the limitations of our time and budget, we had to film this in one day with a crew of 2 people. After filming, the music video was edited and promoted to audiences across multiple social media channels.
+
+See the final production [here](https://www.youtube.com/watch?v=vnk4ltwfdkw).   
+
+**Skills Demonstrated:**
+
+- **Branding:** Aligned project vision with existing branding and design cues for accurate and consistent artist representation.
+- **Team Coordination:** Oversaw collaboration across creative, marketing, and production teams to optimize production timeline and delivery.
+- **Brand Positioning:** Worked with artist's marketing team to ensure consistant communication across social channels.
+- **Leadership:** Led the project from conception to final delivery, overseeing all facets of production.
+
+---
+
+## Origami Handroll Bar - Visual Marketing and Photography
+
+I had the opportunity to work with a local business to improve their online presence through photogrpahy and videography. With branding having already been completed, this was treated more as an update to the visual standards of the brand, while keeping the design cues intact. Using other sources as reference and inspiration, we worked on photographing the menu in a way that kept the restaurant's theme in mind. I also worked on some video productions for them so that they could promote their restaurant concept to potential franchisees.
+
+See the final delivered items at [Origami's website](https://www.origamihrb.com).
+
+**Skills Demonstrated:**
+
+- **Visual Marketing:** Used existing design cues and brand standards to improve imagery on website and social channels.
+- **Creative Direction:** Consulted with the business owner and marketing team to align their vision with improved and upgraded visuals that would appear seamlessly integrated into existing content.
+- **Content Development:** Developed ideas from the ground up to promote the concept of the restaurant to franchisees through video production, in addition to producing shorter content usable for social media.
+
+---
+
+## Culminating Experience Project - MSDM
+
+This project involved collaboration between myself and other classmates of the M.S. in Digital Marketing cohort to study the effects of AI Impatience on consumers as they become aware of AI integration in product development. A survey was provided to a respondent pool of about 200 Cal Poly students in order to gather data, which was cleaned and analyzed. Ultimately, the data was wrangled and visualized to display our findings.
+
+**Skills Demonstrated:**
+
+
+**Strategic Planning & Research:** I helped define clear research objectives with my teammates to support research into our chosen analytics objectives.
+
+**Data Wrangling & Transformation:** I assisted with the raw data being processed, cleaned, transformed and visualized using SPSS and R Studio in order to analyze the data exported from Qualtrics.
+
+**Reporting & Presentation:** In conjunction with my team, I helped to create a written report and visual presentation to present our findings to faculty and fellow students. After receiving constructive feedback, I implemented changes to both items as we continue to refine our report.
+
+**Cross-Functional Collaboration:** I collaborated with my 2 teammates and faculty lead to construct our project from the ground up. I assisted with coordinating meeting times in order for team members to stay aligned on active deadlines.
+
+
+- **Brand Analysis:** Audited messaging, tone, and visual identity.
+- **Competitive Benchmarking:** Evaluated brand positioning within the market.
+- **Strategic Communication:** Developed new value propositions and storytelling elements.
+- **Stakeholder Presentation:** Delivered recommendations to senior leadership.
+
+---

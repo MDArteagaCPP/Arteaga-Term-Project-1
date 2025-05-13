@@ -1,0 +1,25 @@
+---
+title: "Howdy, I'm Michael Arteaga!"
+---
+
+::::: columns
+::: {.column width="30%"}
+![](images/headshot.jpg){width="100%" style="border-radius: 50%;"}
+:::
+
+::: {.column width="70%" style="padding-left: 3rem;"}
+I'm a creative marketer. I specialize in directing creative projects to tell a story, engaging audiences through visual cues, cinematography, and human connection.
+:::
+:::::
+
+## About Me
+
+I hold a B.S. in Business Administration, a B.A. in Music Industry Studies, and a Master of Science in Digital Marketing from Cal Poly Pomona.
+
+## Let's Connect
+
+You can [email me](mailto:mdarteaga@me.com) or connect on [LinkedIn](https://www.linkedin.com/in/mdarteaga/).
+
+------------------------------------------------------------------------
+
+*Welcome to my portfolio.*

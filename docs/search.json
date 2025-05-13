@@ -1,0 +1,205 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Howdy, I’m Michael Arteaga!",
+    "section": "",
+    "text": "I’m a creative marketer. I specialize in directing creative projects to tell a story, engaging audiences through visual cues, cinematography, and human connection."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Howdy, I’m Michael Arteaga!",
+    "section": "About Me",
+    "text": "About Me\nI hold a B.S. in Business Administration, a B.A. in Music Industry Studies, and a Master of Science in Digital Marketing from Cal Poly Pomona."
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "Hi, I’m [Your Name Here]",
+    "section": "What I Do",
+    "text": "What I Do\n\n[Skill or Service 1]: [Brief explanation or tools used].\n[Skill or Service 2]: [Brief explanation or area of expertise].\n[Skill or Service 3]: [Brief explanation or audience served].\n[Skill or Service 4]: [Brief explanation or technologies used]."
+  },
+  {
+    "objectID": "index.html#lets-connect",
+    "href": "index.html#lets-connect",
+    "title": "Howdy, I’m Michael Arteaga!",
+    "section": "Let’s Connect",
+    "text": "Let’s Connect\nYou can email me or connect on LinkedIn.\n\nWelcome to my portfolio."
+  },
+  {
+    "objectID": "marketing-analytics.html",
+    "href": "marketing-analytics.html",
+    "title": "Marketing Analytics",
+    "section": "",
+    "text": "I’ve chosen some highlights from recent marketing analytics highlights to showcase below. They offer a glimpse into the possibilities of data analytics in various formats, and how digital marketing can leverage technology to assist in making informed decisions."
+  },
+  {
+    "objectID": "marketing-analytics.html#what-youll-find",
+    "href": "marketing-analytics.html#what-youll-find",
+    "title": "Marketing Analytics",
+    "section": "What You’ll Find",
+    "text": "What You’ll Find"
+  },
+  {
+    "objectID": "resume/YOUR-NAME-Resume.html",
+    "href": "resume/YOUR-NAME-Resume.html",
+    "title": "Professional Summary",
+    "section": "",
+    "text": "Professional Summary\nMotivated and detail-oriented marketing and analytics professional with a strong background in data interpretation, campaign strategy, and digital tools. Skilled in turning insights into action and communicating value across business teams.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, Quarto, CMS, Google Analytics, etc.\n\n\n\nEducation\n\n\n# A tibble: 2 × 5\n  what                     when                            with      where why  \n  &lt;chr&gt;                    &lt;chr&gt;                           &lt;chr&gt;     &lt;chr&gt; &lt;lis&gt;\n1 Master of [Your Field]   20XX – Expected Graduation 20XX [Your Sc… [You… &lt;chr&gt;\n2 Bachelor of [Your Field] 20XX – 20XX                     [Your Sc… [You… &lt;chr&gt;\n\n\n\n\nWork Experience\n\n\n# A tibble: 2 × 5\n  what      when                    with                         where why   \n  &lt;chr&gt;     &lt;chr&gt;                   &lt;chr&gt;                        &lt;chr&gt; &lt;list&gt;\n1 Job Title Month YYYY – Month YYYY Company or Organization Name &lt;NA&gt;  &lt;list&gt;\n2 Job Title Month YYYY – Month YYYY Another Company or Team      &lt;NA&gt;  &lt;list&gt;"
+  },
+  {
+    "objectID": "listings/05-social-media-engagement.html",
+    "href": "listings/05-social-media-engagement.html",
+    "title": "Social Media Engagement Analysis",
+    "section": "",
+    "text": "Overview\nThis analysis examined engagement metrics across multiple social media platforms to identify content trends, audience preferences, and posting strategies that drive performance.\n\n\n\n\nLearning Outcomes\n\nAggregate and clean social media data.\n\nIdentify high-performing content formats.\n\nUnderstand audience behavior and peak times.\n\nSupport social strategy with data-backed recommendations.\n\nVisualize results in an executive summary.\n\n\n\n\nKey Skills Gained\n\nSocial analytics\n\nPlatform metric APIs\n\nContent performance tracking\n\nAudience insights\n\nStrategic planning"
+  },
+  {
+    "objectID": "listings/03-customer-segmentation-clustering.html",
+    "href": "listings/03-customer-segmentation-clustering.html",
+    "title": "Customer Segmentation Using Clustering",
+    "section": "",
+    "text": "Overview\nIn this analysis, customer data was segmented using clustering algorithms to identify meaningful groups. These segments informed targeting strategies and personalization efforts.\n\n\n\n\nLearning Outcomes\n\nClean and prepare customer-level data.\n\nApply clustering techniques to group similar customers.\n\nInterpret clusters to define marketing personas.\n\nRecommend tailored messaging strategies.\n\nSupport targeted campaign development.\n\n\n\n\nKey Skills Gained\n\nK-means clustering\n\nData preprocessing\n\nCustomer profiling\n\nMarket segmentation strategy\n\nR or Python for machine learning"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "My Resumé",
+    "section": "",
+    "text": "You can view a PDF version of my résumé here.\n\nProfessional Summary\nFrom a young age, I’ve been involved with the arts in varying degrees, including music and photography More recently, my experience has expanded to include cinematography. I’ve had the pleasure to work with many entrepreneurs, brands, digital influencers, and music artists to visual tell their stories and bring ideas to life. Through Digital Marketing, I’m able to reach new audiences with captivating visual media that compels, challenges, and inspires.\n\n\nTechnical Skills\n\nProgramming Languages: R, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, Quarto, Analytics Tools\n\n\n\nEducation\n\n\n\n\n\n\n\n\n\nDegree\nYear\nCollege / Department\nInstitution\n\n\n\n\nM.S. Digital Marketing]\n2023-2025\nSingelyn College of Business\nCal Poly Pomona\n\n\nB.S. Business Administration\n2014-2018\nCollege of Business Administration\nCal Poly Pomona\n\n\nB.A. Music Industry Studies\n2014-2018\nCollege of Letters, Arts, Social Sciences\nCal Poly Pomona\n\n\n\n\n\nWork Experience\n\nCreative Director, COG Cinemas\n2013 - Present\n\nDirecting, filming, and production of corporate, marketing, and social content\n\n10+ years working experience with audio and camera equipment and industry NLE’s\n\nContent curation to align brand across social channels through photo, video, and graphics\nUse of social tools and digital marketing to monitor activity and engage communities\n\n\n\n\nTechnical Administrator, Apple\n2017 - Present\n\nSupport internal teams by creating digital assets via Adobe Creative Cloud\n\nLeverage cloud platforms to remotely conceptualize, revise, and finalize projects\nTasked with editing confidential content to be distributed through internal channels\nCollaborate with leadership to identify and implement growth opportunities\n\n\n\n\nContent Producer, Youtube Creator\n2013 - Present\n\nDirector, creator, and producer for three independent Youtube channels\nPartner with brands and social influenc- ers to promote exclusive events, products, and media nights through social content\nManagement of various social communities across Youtube, Facebook, Instagram, etc.\n10+ years experience with travel, narra- tive, documentary, vlog, product, brand- ing, and music-focused content"
+  },
+  {
+    "objectID": "listings/02-seo-benchmarking-analysis.html",
+    "href": "listings/02-seo-benchmarking-analysis.html",
+    "title": "SEO Benchmarking Analysis",
+    "section": "",
+    "text": "Overview\nThis project compared SEO performance across competitors, highlighting keyword gaps, backlink profiles, and content effectiveness. Insights were used to guide an improved content and SEO strategy.\n\n\n\n\nLearning Outcomes\n\nIdentify keyword opportunities through competitive research.\n\nTrack and compare domain authority and page rankings.\n\nRecommend on-page SEO improvements.\n\nDesign a data-driven SEO content strategy.\n\nVisualize competitor positioning.\n\n\n\n\nKey Skills Gained\n\nKeyword research\n\nWeb scraping & data cleaning\n\nSEO analysis tools\n\nData storytelling\n\nStrategy development"
+  },
+  {
+    "objectID": "listings/04-funnel-attribution-model.html",
+    "href": "listings/04-funnel-attribution-model.html",
+    "title": "Marketing Funnel Attribution Model",
+    "section": "",
+    "text": "Overview\nThis project developed a marketing attribution model to assign credit to touchpoints throughout the conversion journey. The insights supported channel optimization and budget reallocation.\n\n\n\n\nLearning Outcomes\n\nTrack multi-touch customer journeys.\n\nModel attribution using first-touch, last-touch, and linear approaches.\n\nVisualize funnel performance.\n\nQuantify channel impact on conversion.\n\nGuide future campaign investment decisions.\n\n\n\n\nKey Skills Gained\n\nAttribution modeling\n\nFunnel analysis\n\nData visualization\n\nCampaign performance analysis\n\nR or Python analytics pipelines"
+  },
+  {
+    "objectID": "listings/01-campaign-insights-dashboard.html",
+    "href": "listings/01-campaign-insights-dashboard.html",
+    "title": "Campaign Insights Dashboard",
+    "section": "",
+    "text": "Overview\nThis project involved building a dashboard to track and visualize marketing campaign performance. Metrics like click-through rate, conversion rate, and ROI were tracked across channels using R and Tableau.\n\n\n\n\nLearning Outcomes\n\nVisualize and monitor key marketing metrics.\n\nAnalyze performance trends across multiple campaigns.\n\nIdentify high- and low-performing segments.\n\nCommunicate insights through interactive visuals.\n\nDevelop data-informed recommendations.\n\n\n\n\nKey Skills Gained\n\nDashboard development\n\nCampaign analytics\n\nData wrangling in R\n\nTableau or R Shiny visualization\n\nPerformance measurement"
+  },
+  {
+    "objectID": "strategic-marketing.html",
+    "href": "strategic-marketing.html",
+    "title": "Strategic Marketing",
+    "section": "",
+    "text": "Below are selected projects that showcase my work in strategic marketing, campaign development, and brand management. These examples highlight how I apply leadership, data-informed decision making, and creative direction to drive marketing success."
+  },
+  {
+    "objectID": "strategic-marketing.html#project-title-1-strategic-campaign-planning",
+    "href": "strategic-marketing.html#project-title-1-strategic-campaign-planning",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 1: Strategic Campaign Planning]",
+    "text": "[Project Title 1: Strategic Campaign Planning]\nIn this project, I led the development of a comprehensive marketing campaign for [product, service, or initiative]. From audience segmentation to messaging strategy, I managed the full lifecycle of the campaign, aligning it with business objectives and measurable KPIs.\nSkills Demonstrated:\n\nMarketing Strategy: Defined objectives and tactics for maximum impact.\nTeam Coordination: Oversaw collaboration across creative, data, and channel teams.\nPerformance Tracking: Implemented real-time metrics and post-campaign analysis.\nBrand Positioning: Ensured consistency across all touchpoints."
+  },
+  {
+    "objectID": "strategic-marketing.html#project-title-2-brand-audit-positioning",
+    "href": "strategic-marketing.html#project-title-2-brand-audit-positioning",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 2: Brand Audit & Positioning]",
+    "text": "[Project Title 2: Brand Audit & Positioning]\nThis initiative involved conducting a full brand audit for [organization or brand], evaluating its current market perception, competitive landscape, and customer engagement. I synthesized insights into a refreshed brand strategy and visual identity recommendations.\nSkills Demonstrated:\n\nBrand Analysis: Audited messaging, tone, and visual identity.\nCompetitive Benchmarking: Evaluated brand positioning within the market.\nStrategic Communication: Developed new value propositions and storytelling elements.\nStakeholder Presentation: Delivered recommendations to senior leadership."
+  },
+  {
+    "objectID": "strategic-marketing.html#project-title-3-product-launch-go-to-market-plan",
+    "href": "strategic-marketing.html#project-title-3-product-launch-go-to-market-plan",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 3: Product Launch Go-to-Market Plan]",
+    "text": "[Project Title 3: Product Launch Go-to-Market Plan]\nFor the release of [new product/service], I created a go-to-market (GTM) strategy from scratch. This included customer journey mapping, channel mix planning, and launch timeline coordination.\nSkills Demonstrated:\n\nGo-to-Market Strategy: Developed a clear launch roadmap aligned with buyer needs.\nIntegrated Marketing: Orchestrated email, paid ads, social, and on-site promotions.\nBudget Management: Allocated resources efficiently across tactics.\nLaunch Optimization: Tracked performance and refined tactics in real time.\n\nBelow is an embedded demonstration of the interactive report:"
+  },
+  {
+    "objectID": "strategic-marketing.html#project-title-4-client-consulting-campaign-optimization",
+    "href": "strategic-marketing.html#project-title-4-client-consulting-campaign-optimization",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 4: Client Consulting & Campaign Optimization]",
+    "text": "[Project Title 4: Client Consulting & Campaign Optimization]\nI collaborated with a client to assess and optimize their existing marketing efforts. Through audits, persona development, and campaign refinement, I helped improve ROI and audience engagement.\nSkills Demonstrated:\n\nClient Consulting: Provided clear insights and strategic guidance.\nPersona Development: Built target personas to guide messaging.\nCampaign Optimization: Identified and addressed areas of underperformance.\nData-Driven Adjustments: Leveraged analytics to refine tactics."
+  },
+  {
+    "objectID": "resume/Resume.html",
+    "href": "resume/Resume.html",
+    "title": "Professional Summary",
+    "section": "",
+    "text": "Professional Summary\nMotivated and detail-oriented marketing and analytics professional with a strong background in data interpretation, campaign strategy, and digital tools. Skilled in turning insights into action and communicating value across business teams.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, Quarto, CMS, Google Analytics, etc.\n\n\n\nEducation\n\n\n# A tibble: 2 × 5\n  what                     when                            with      where why  \n  &lt;chr&gt;                    &lt;chr&gt;                           &lt;chr&gt;     &lt;chr&gt; &lt;lis&gt;\n1 Master of [Your Field]   20XX – Expected Graduation 20XX [Your Sc… [You… &lt;chr&gt;\n2 Bachelor of [Your Field] 20XX – 20XX                     [Your Sc… [You… &lt;chr&gt;\n\n\n\n\nWork Experience\n\n\n# A tibble: 2 × 5\n  what      when                    with                         where why   \n  &lt;chr&gt;     &lt;chr&gt;                   &lt;chr&gt;                        &lt;chr&gt; &lt;list&gt;\n1 Job Title Month YYYY – Month YYYY Company or Organization Name &lt;NA&gt;  &lt;list&gt;\n2 Job Title Month YYYY – Month YYYY Another Company or Team      &lt;NA&gt;  &lt;list&gt;"
+  },
+  {
+    "objectID": "digital-marketing.html",
+    "href": "digital-marketing.html",
+    "title": "Strategic Marketing",
+    "section": "",
+    "text": "Over the past several years, my work has included branding, visual marketing, and video production. Below are some of my projects where I’ve collaborated with entrepreneurs, businesses, and creatives to showcase their brands and ideas."
+  },
+  {
+    "objectID": "digital-marketing.html#project-title-1-strategic-campaign-planning",
+    "href": "digital-marketing.html#project-title-1-strategic-campaign-planning",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 1: Strategic Campaign Planning]",
+    "text": "[Project Title 1: Strategic Campaign Planning]\nIn this project, I led the development of a comprehensive marketing campaign for [product, service, or initiative]. From audience segmentation to messaging strategy, I managed the full lifecycle of the campaign, aligning it with business objectives and measurable KPIs.\nSkills Demonstrated:\n\nMarketing Strategy: Defined objectives and tactics for maximum impact.\nTeam Coordination: Oversaw collaboration across creative, data, and channel teams.\nPerformance Tracking: Implemented real-time metrics and post-campaign analysis.\nBrand Positioning: Ensured consistency across all touchpoints."
+  },
+  {
+    "objectID": "digital-marketing.html#project-title-2-brand-audit-positioning",
+    "href": "digital-marketing.html#project-title-2-brand-audit-positioning",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 2: Brand Audit & Positioning]",
+    "text": "[Project Title 2: Brand Audit & Positioning]\nThis initiative involved conducting a full brand audit for [organization or brand], evaluating its current market perception, competitive landscape, and customer engagement. I synthesized insights into a refreshed brand strategy and visual identity recommendations.\nSkills Demonstrated:\n\nBrand Analysis: Audited messaging, tone, and visual identity.\nCompetitive Benchmarking: Evaluated brand positioning within the market.\nStrategic Communication: Developed new value propositions and storytelling elements.\nStakeholder Presentation: Delivered recommendations to senior leadership."
+  },
+  {
+    "objectID": "digital-marketing.html#project-title-3-product-launch-go-to-market-plan",
+    "href": "digital-marketing.html#project-title-3-product-launch-go-to-market-plan",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 3: Product Launch Go-to-Market Plan]",
+    "text": "[Project Title 3: Product Launch Go-to-Market Plan]\nFor the release of [new product/service], I created a go-to-market (GTM) strategy from scratch. This included customer journey mapping, channel mix planning, and launch timeline coordination.\nSee the final delivered items at Origami’s website.\nSkills Demonstrated:\n\nGo-to-Market Strategy: Developed a clear launch roadmap aligned with buyer needs.\nIntegrated Marketing: Orchestrated email, paid ads, social, and on-site promotions.\nBudget Management: Allocated resources efficiently across tactics.\nLaunch Optimization: Tracked performance and refined tactics in real time."
+  },
+  {
+    "objectID": "digital-marketing.html#project-title-4-client-consulting-campaign-optimization",
+    "href": "digital-marketing.html#project-title-4-client-consulting-campaign-optimization",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 4: Client Consulting & Campaign Optimization]",
+    "text": "[Project Title 4: Client Consulting & Campaign Optimization]\nI collaborated with a client to assess and optimize their existing marketing efforts. Through audits, persona development, and campaign refinement, I helped improve ROI and audience engagement.\nSkills Demonstrated:\n\nClient Consulting: Provided clear insights and strategic guidance.\nPersona Development: Built target personas to guide messaging.\nCampaign Optimization: Identified and addressed areas of underperformance.\nData-Driven Adjustments: Leveraged analytics to refine tactics."
+  },
+  {
+    "objectID": "digital-marketing.html#abi-carter---peppermint-sky-official-music-video",
+    "href": "digital-marketing.html#abi-carter---peppermint-sky-official-music-video",
+    "title": "Strategic Marketing",
+    "section": "Abi Carter - “Peppermint Sky” Official Music Video",
+    "text": "Abi Carter - “Peppermint Sky” Official Music Video\nFor this project, I worked with music artist Abi Carter from American Idol. This involved storyboarding and visualizing her ideas for video production. Given the limitations of our time and budget, we had to film this in one day with a crew of 2 people. After filming, the music video was edited and promoted to audiences across multiple social media channels.\nSee the final production here.\nSkills Demonstrated:\n\nBranding: Aligned project vision with existing branding and design cues for accurate and consistent artist representation.\nTeam Coordination: Oversaw collaboration across creative, marketing, and production teams to optimize production timeline and delivery.\nBrand Positioning: Worked with artist’s marketing team to ensure consistant communication across social channels.\nLeadership: Led the project from conception to final delivery, overseeing all facets of production."
+  },
+  {
+    "objectID": "digital-marketing.html#culminating-experience-project---msdm",
+    "href": "digital-marketing.html#culminating-experience-project---msdm",
+    "title": "Strategic Marketing",
+    "section": "Culminating Experience Project - MSDM",
+    "text": "Culminating Experience Project - MSDM\nThis project involved collaboration between myself and other classmates of the M.S. in Digital Marketing cohort to study the effects of AI Impatience on consumers as they become aware of AI integration in product development. A survey was provided to a respondent pool of about 200 Cal Poly students in order to gather data, which was cleaned and analyzed. Ultimately, the data was wrangled and visualized to display our findings.\nSkills Demonstrated:\nStrategic Planning & Research: I helped define clear research objectives with my teammates to support research into our chosen analytics objectives.\nData Wrangling & Transformation: I assisted with the raw data being processed, cleaned, transformed and visualized using SPSS and R Studio in order to analyze the data exported from Qualtrics.\nReporting & Presentation: In conjunction with my team, I helped to create a written report and visual presentation to present our findings to faculty and fellow students. After receiving constructive feedback, I implemented changes to both items as we continue to refine our report.\nCross-Functional Collaboration: I collaborated with my 2 teammates and faculty lead to construct our project from the ground up. I assisted with coordinating meeting times in order for team members to stay aligned on active deadlines.\n\nBrand Analysis: Audited messaging, tone, and visual identity.\nCompetitive Benchmarking: Evaluated brand positioning within the market.\nStrategic Communication: Developed new value propositions and storytelling elements.\nStakeholder Presentation: Delivered recommendations to senior leadership."
+  },
+  {
+    "objectID": "digital-marketing.html#origami-handroll-bar---visual-marketing-and-photography",
+    "href": "digital-marketing.html#origami-handroll-bar---visual-marketing-and-photography",
+    "title": "Strategic Marketing",
+    "section": "Origami Handroll Bar - Visual Marketing and Photography",
+    "text": "Origami Handroll Bar - Visual Marketing and Photography\nI had the opportunity to work with a local business to improve their online presence through photogrpahy and videography. With branding having already been completed, this was treated more as an update to the visual standards of the brand, while keeping the design cues intact. Using other sources as reference and inspiration, we worked on photographing the menu in a way that kept the restaurant’s theme in mind. I also worked on some video productions for them so that they could promote their restaurant concept to potential franchisees.\nSee the final delivered items at Origami’s website.\nSkills Demonstrated:\n\nVisual Marketing: Used existing design cues and brand standards to improve imagery on website and social channels.\nCreative Direction: Consulted with the business owner and marketing team to align their vision with improved and upgraded visuals that would appear seamlessly integrated into existing content.\nContent Development: Developed ideas from the ground up to promote the concept of the restaurant to franchisees through video production, in addition to producing shorter content usable for social media."
+  },
+  {
+    "objectID": "market-analytics.html",
+    "href": "market-analytics.html",
+    "title": "Marketing Analytics",
+    "section": "",
+    "text": "I’ve chosen some highlights from recent marketing analytics highlights to showcase below. They offer a glimpse into the possibilities of data analytics in various formats, and how digital marketing can leverage technology to assist in making informed decisions.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSocial Media Engagement Analysis\n\n\n\nSocial Media\n\n\nEngagement Metrics\n\n\nContent Strategy\n\n\nAudience Analysis\n\n\nAnalytics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarketing Funnel Attribution Model\n\n\n\nAttribution\n\n\nMarketing Funnel\n\n\nCampaign Optimization\n\n\nAnalytics Modeling\n\n\nData Science\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCustomer Segmentation Using Clustering\n\n\n\nCustomer Insights\n\n\nSegmentation\n\n\nMachine Learning\n\n\nClustering\n\n\nMarketing Strategy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSEO Benchmarking Analysis\n\n\n\nSEO\n\n\nCompetitive Analysis\n\n\nKeyword Research\n\n\nDigital Strategy\n\n\nSearch Rankings\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCampaign Insights Dashboard\n\n\n\nDashboarding\n\n\nMarketing Analytics\n\n\nData Visualization\n\n\nPerformance Metrics\n\n\nCustomer Insights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "marketing-analytics.html#top-projects",
+    "href": "marketing-analytics.html#top-projects",
+    "title": "Marketing Analytics",
+    "section": "Top Projects",
+    "text": "Top Projects\n\nCulminating Experience Project - AI Impatience Descriptive Analytics\n\nThese descriptive analytics were derived from SPSS for use in our culminating experience project in order to determine key insights from our survey data.\n\n\n\nDescriptive Analytics\n\n\n\n\nWe also ran an ANOVA Regression to determine the significance of the data in our dataset. Of the two questions analyzed for this particular analytics objective, we kept the one which was statistically significant.\n\n\n\nANOVA Regression\n\n\n\n\n\nMarket Forecasting\n\nFor our Market Forecasting class, we used a dataset for Ansett Airlines to forecast for future operations based on historical data. Using prior years’ data, we were able to anticipate travel trends and customer “flight class” preference.\n\n\n\nAnsett Airlines Forecast\n\n\n\n\n\nCustomer Insights Survey Methods and Research\n\nIn this project, we used a built-in R dataset to mutate the data before performing K-Means clustering and adding clustering assignments to the original dataset. We then generated a means of total points by Cluster and visualized them.\n\n\n\nClusters"
+  }
+]

@@ -1,0 +1,37 @@
+---
+title: "Marketing Analytics"
+---
+
+I've chosen some highlights from recent marketing analytics highlights to showcase below. They offer a glimpse into the possibilities of data analytics in various formats, and how digital marketing can leverage technology to assist in making informed decisions.
+
+## Top Projects
+
+### Culminating Experience Project - AI Impatience Descriptive Analytics
+
+#### These descriptive analytics were derived from SPSS for use in our culminating experience project in order to determine key insights from our survey data.
+
+![Descriptive Analytics](images/descriptive_analytics.png)
+
+#### We also ran an ANOVA Regression to determine the significance of the data in our dataset. Of the two questions analyzed for this particular analytics objective, we kept the one which was statistically significant.
+
+![ANOVA Regression](images/ANOVA.png)
+
+### Market Forecasting
+
+#### For our Market Forecasting class, we used a dataset for Ansett Airlines to forecast for future operations based on historical data. Using prior years' data, we were able to anticipate travel trends and customer "flight class" preference.
+
+
+![Ansett Airlines Forecast](images/Forecast_Charts.png)
+
+
+### Customer Insights Survey Methods and Research
+
+#### In this project, we used a built-in R dataset to mutate the data before performing K-Means clustering and adding clustering assignments to the original dataset. We then generated a means of total points by Cluster and visualized them.
+
+
+![Clusters](images/Clusters.png)
+
+
+
+
+
